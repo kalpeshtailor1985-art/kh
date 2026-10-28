@@ -1,0 +1,7 @@
+node_modules/
+.firebase/
+_site/
+*-firebase-adminsdk-*.json
+Bai_Avabai_Backup_*.json
+*.log
+.DS_Store
